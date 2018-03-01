@@ -2,7 +2,7 @@
 
 ### Embeddings
 1. [Concept Net Numberbatch Embeddings](https://conceptnet.s3.amazonaws.com/downloads/2017/numberbatch/numberbatch-en-17.06.txt.gz)
-2. [Collober's SENNA ](https://ronan.collobert.com/senna/)
+2. [Collobert's SENNA ](https://ronan.collobert.com/senna/)
 2. [GloVe](http://nlp.stanford.edu/projects/glove/)
 2. [Word2Vec](https://code.google.com/p/word2vec/ )
 
